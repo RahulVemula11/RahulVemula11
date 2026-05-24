@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulVemula11&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- ===== ANIMATED TYPING HEADER ===== -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Bhushan+Vemula+%F0%9F%91%8B;AI+Content+Engineer+%40+StudyEasy.org;Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Bhushan+Vemula+%F0%9F%91%8B;AI+Content+Engineer+%40+StudyEasy.org;Building+AI+Content+Pipelines;Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,6 +15,7 @@
 I'm **Rahul Bhushan Vemula** — an **AI Content Engineer at StudyEasy.org** and an **AI & Data Science graduate** (B.E., SRKR Engineering College). I build production-grade full-stack applications and apply machine learning to real-world problems, working the seam between **Java backends** and **applied AI**.
 
 - 🔭 Currently building **AI content pipelines** for [**DubNext.com**](https://dubnext.com) — an AI-powered LMS
+- 🤖 I **evaluate and integrate AI tools** (LLMs, voice, video, translation) into education content workflows
 - 🎓 Built a **deepfake video detection** system as my thesis project (Convolutional Autoencoder + LSTM)
 - 💬 Ask me about **Spring Boot**, **React**, and **applied ML**
 - 🌐 Portfolio: [**rahulvemula11.github.io**](https://rahulvemula11.github.io/)
@@ -61,6 +62,33 @@ I'm **Rahul Bhushan Vemula** — an **AI Content Engineer at StudyEasy.org** and
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🤖 AI Tools I Work With
+
+Separate from my build stack — these are the models and platforms I **evaluate and integrate into content pipelines**. **Claude is my daily driver**; the rest get used where they earn their place.
+
+**Language & Translation**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepL](https://img.shields.io/badge/DeepL-0F2B46?style=for-the-badge&logo=deepl&logoColor=white)
+
+**Voice, Video & Image**
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Sora](https://img.shields.io/badge/Sora-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Runway](https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=runway&logoColor=white)
+![HeyGen](https://img.shields.io/badge/HeyGen-7C3AED?style=for-the-badge&logo=heygen&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL%C2%B7E-412991?style=for-the-badge)
+![Nano Banana](https://img.shields.io/badge/Nano_Banana-FFD43B?style=for-the-badge&logoColor=black)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![Descript](https://img.shields.io/badge/Descript-2F4BFF?style=for-the-badge&logo=descript&logoColor=white)
+
+**How I use them:** Claude as a remote pair via dispatch (pulling issues, proposing fixes, opening PRs) · Playwright + Claude for end-to-end testing · evaluating LLMs, voice, and translation models against a quality bar before anything ships into a course.
 
 ---
 
